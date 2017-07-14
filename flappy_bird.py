@@ -178,3 +178,5 @@ life = 1
 while life <= 3:
 	gameloop()
 	life += 1
+#this is not yet completed there are many changes required to improve this game
+#By_Sumit_Patidar
